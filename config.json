@@ -1,0 +1,12 @@
+{
+  "blender_executable": "blender",
+  "ffmpeg_executable": "ffmpeg",
+  "output_dir": "outputs",
+  "temp_dir": "tmp",
+  "log_dir": "logs",
+  "render_engine": "BLENDER_EEVEE",
+  "device": "GPU",
+  "default_fps": 24,
+  "default_width": 720,
+  "default_height": 1280
+}

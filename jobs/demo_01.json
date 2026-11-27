@@ -1,0 +1,21 @@
+{
+  "id": "demo_01",
+  "title": "Teste de pipeline 3D",
+  "duration_seconds": 6,
+  "fps": 24,
+  "width": 720,
+  "height": 1280,
+  "style": "stylized_3d",
+  "caption": "Nossa fábrica está funcionando!",
+  "background": [
+    0.025,
+    0.045,
+    0.09
+  ],
+  "character_color": [
+    0.95,
+    0.28,
+    0.12
+  ],
+  "output_name": "demo_01.mp4"
+}
